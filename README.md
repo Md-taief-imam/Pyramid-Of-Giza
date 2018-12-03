@@ -24,3 +24,4 @@ The following technologies has been used here:
 * Lighting effect on the whole scene.
 * Day-Night effect ambient light and directional light.
 * Applying textures on the pyramids and the sand.
+* Zoom in-out.
